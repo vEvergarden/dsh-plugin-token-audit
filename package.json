@@ -28,6 +28,14 @@
     "sao"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vEvergarden/dsh-plugin-token-audit.git"
+  },
+  "homepage": "https://github.com/vEvergarden/dsh-plugin-token-audit#readme",
+  "bugs": {
+    "url": "https://github.com/vEvergarden/dsh-plugin-token-audit/issues"
+  },
   "engines": {
     "node": ">=22"
   },
