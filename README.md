@@ -3,7 +3,9 @@
 给 **DeepSeek Harness** 用的 Token 用量审计插件：一张悬浮小卡片，随时知道今天烧了多少、钱还剩多少、哪几个任务最费。
 
 ```
-<img width="266" height="407" alt="image" src="https://github.com/user-attachments/assets/7ca3ff6b-ba83-4bbd-b993-88b94765a1b5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ca3ff6b-ba83-4bbd-b993-88b94765a1b5" alt="Token 审计悬浮卡片（展开状态）" width="266" />
+</p>
 
 ```
 
