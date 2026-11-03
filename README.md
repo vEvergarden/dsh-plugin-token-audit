@@ -3,20 +3,8 @@
 给 **DeepSeek Harness** 用的 Token 用量审计插件：一张悬浮小卡片，随时知道今天烧了多少、钱还剩多少、哪几个任务最费。
 
 ```
-╭──────────────────────────────╮
-│ ◈ TOKEN METER        11-04  ×│
-│ USED TODAY        LEFT 21.17M~│
-│ 11.78M                        │
-│ ▮▮▮▮▮▮▮▮▮▮▮▮▮▯                │
-│ BAL ¥42.34  @2                │
-│ 赠 ¥3.66   充 ¥38.68          │
-│ [DAY] [MON] [YEAR]            │
-│  ▁▃▅█▆▄▂                      │
-│ TOP CONSUMPTION          ×11  │
-│ 01 帮我写个插件…        6.41M  │
-│    #4 · 12M30S · 23 CALLS     │
-│ 02 余额是赠金3.66+…     2.10M  │
-╰──────────────────────────────╯
+<img width="266" height="407" alt="image" src="https://github.com/user-attachments/assets/7ca3ff6b-ba83-4bbd-b993-88b94765a1b5" />
+
 ```
 
 收起后是一条 26px 高的胶囊：
