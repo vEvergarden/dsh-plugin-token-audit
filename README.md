@@ -2,20 +2,16 @@
 
 给 **DeepSeek Harness** 用的 Token 用量审计插件：一张悬浮小卡片，随时知道今天烧了多少、钱还剩多少、哪几个任务最费。
 
-```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7ca3ff6b-ba83-4bbd-b993-88b94765a1b5" alt="Token 审计悬浮卡片（展开状态）" width="266" />
 </p>
 
-```
 
 收起后是一条 26px 高的胶囊：
 
-```
-◉ TOK 11.78M ▬▬▬▭▭
-```
-
----
+<p align="center">
+<img width="140" height="26" alt="image" src="https://github.com/user-attachments/assets/155db7e1-bb83-4041-8d68-ca1547d2c486" />
+</p>
 
 ## 特性
 
