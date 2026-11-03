@@ -1,0 +1,14 @@
+# dsh-plugin-token-audit bundle patch.
+#
+# 一行 insert 挂载 Host 半身；浏览器半身由 package.json 的 dsh.client 声明，
+# 并绑定在 name 为裸包名的这一行上。
+#
+# 注意：不要把这个条目写进 profile 的 cordis.patch.yml ——
+# 用户在设置界面改任何选项时，DSH 会用内存里的树重写那个文件，手写的条目会被抹掉。
+# 作为 bundle 提供才是稳定的。
+- insert:
+    - id: token-audit
+      name: 'dsh-plugin-token-audit'
+      config:
+        port: 48921
+        budget: 20000000

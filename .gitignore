@@ -1,0 +1,24 @@
+# 依赖
+node_modules/
+.pnpm-store/
+
+# 本地运行时产物
+browser-profile/
+*.log
+alerts.jsonl
+seen_lines.json
+
+# 安装脚本产生的备份
+*.bak-*
+*.bak
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时
+_tmp/
+_probe/
